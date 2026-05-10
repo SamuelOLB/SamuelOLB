@@ -4,7 +4,7 @@
  🚀 Focado em evoluir com projetos práticos  
  📚 Atualmente aprendendo lógica, funções e automações simples
 
-## 🧠 Conhecimento 
+## 🧠 Conhecimento
 
  🐍 Python (Iniciante)
  🛣️ Cursanado Python com Framework 
