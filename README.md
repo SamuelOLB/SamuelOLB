@@ -12,7 +12,7 @@
 
 ## 📂 Projetos 
 
- - 🚧 Em construção (novos projetos em breve)
+ - 🔐 Gerador de Senhas em Python
 
 ## 📈 Objetivo
 
