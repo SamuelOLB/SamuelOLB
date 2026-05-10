@@ -1,17 +1,18 @@
 # Hi 👋, I am SamuelOLB
 
- 💻 Estudando Programação em Python  
- 🚀 Focado em evoluir com projetos práticos  
- 📚 Atualmente aprendendo lógica, funções e automações simples
+   💻 Estudando Programação em Python  
+   🚀 Evoluindo com projetos práticos  
+   📚 Focado em lógica, funções e automações
 
 ## 🧠 Conhecimento
 
- - 🐍 Python (Iniciante)     
- - 🛣️ Cursanado Python com Framework    
+ - 🐍 Python (Iniciante)  
+ - 📚 Lógica de programação  
+ - ⚙️ Estruturas de controle (if, loops, funções)
 
 ## 📂 Projetos 
 
-- Em andamento...
+ - 🚧 Em construção (novos projetos em breve)
 
 ## 📈 Objetivo
 
