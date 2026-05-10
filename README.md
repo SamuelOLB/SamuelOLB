@@ -7,7 +7,6 @@
 ## 🧠 Conhecimento
 
  🐍 Python (Iniciante)
- 
  🛣️ Cursanado Python com Framework 
 
 ## 📂 Projetos 
