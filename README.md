@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I am SamuelOLB
 
-<!--
-**SamuelOLB/SamuelOLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** 💻 Estudando Programação em Python  
+** 🚀 Focado em evoluir com projetos práticos  
+** 📚 Atualmente aprendendo lógica, funções e automações simples
 
-Here are some ideas to get you started:
+## 🧠 Conhecimento 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** 🐍 Python (Iniciante)
+** 🛣️ Cursanado Python com Framework 
+
+## 📂 Projetos 
+
+- Em andamento...
+
+## 📈 Objetivo
+
+- Desenvolver habilidades reais em programação e começar a trabalhar na área.
